@@ -10,7 +10,6 @@ Cabe resaltar que también he llevado a cabo un proyecto completo por la parte d
 En sí, estas experiencias me han dado la oportunidad de contribuir de manera integral al desarrollo de varios proyectos totalmente completos, desde su implementación hasta la integración de nuevas y diversas tecnologías en ambas capas, Fronted y Backend. Estoy altamente comprometida a continuar extendiendo mis habilidades y a aplicar mejores prácticas en cuanto al desarrollo de software.
 
 ## Tech Stack 💻
-
 <p align="center">
   <a href="https://www.php.net" >
     <img alt="PHP" src="https://img.shields.io/badge/PHP-7a86b8?style=for-the-badge&logo=PHP&logoColor=white">
@@ -33,6 +32,15 @@ En sí, estas experiencias me han dado la oportunidad de contribuir de manera in
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+  </a>
+  <a href="https://codeigniter.com/" target="_blank">
+    <img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">
+  </a>
+  <a href="https://www.oracle.com/database/" target="_blank">
+    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   </a>
 </p>
 
