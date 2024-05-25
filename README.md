@@ -61,6 +61,9 @@ En sí, estas experiencias me han dado la oportunidad de contribuir de manera in
   <a href="https://www.mysql.com/" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+</a>
 </p>
 
 
