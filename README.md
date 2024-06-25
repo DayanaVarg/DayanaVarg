@@ -5,8 +5,6 @@
 
 Como practicante Backend, he ido adquiriendo experiencia en cuanto al trabajo y manejo de diversas tecnologías, como por ejemplo PHP utlizando Codeigniter, Python utilizando FastApi, y así mismo Java utilizando Spring Boot. Mi especialidad concierne en el desarrollo de aplicativos que den soluciones robustas por parte del servidor. Mis conocimientos han sido aplicados principalmente en el desarrollo de sistemas de información, en los cuales he dado el manejo tanto de Fronted como de Backend, por medio de PHP utilizando Codeigniter, también, he construido servicios y microservicios web rápidos y escalables, principalmente construidos en Python por medio de FastAPI. Y por último, he construido y realizado aplicaciones útiles y eficientes en Java con la ayuda de Spring Boot.
 
-Cabe resaltar que también he llevado a cabo un proyecto completo por la parte del Fronted, con la ayuda de React. En este proyecto, he hecho uso de Axios para la gestión de solicitudes HTTP, y a su vez he implementado una API falsa con la ayuda de JSON Server, con el fin de simular ese intercambio de datos y peticiones entre el Fronted y el Backend.
-
 En sí, estas experiencias me han dado la oportunidad de contribuir de manera integral al desarrollo de varios proyectos totalmente completos, desde su implementación hasta la integración de nuevas y diversas tecnologías en ambas capas, Fronted y Backend. Estoy altamente comprometida a continuar extendiendo mis habilidades y a aplicar mejores prácticas en cuanto al desarrollo de software.
 
 ## Tech Stack 💻
